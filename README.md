@@ -6,7 +6,7 @@
 
 # 
 
-# \*\*AutomationTestStore\*\* is a \*\*practice-based Hybrid Test Automation Framework\*\* developed to automate a web application that includes \*\*user login functionality, validations, and navigation flows\*\*. The framework is built using \*\*Selenium WebDriver with Java\*\* and follows industry-standard automation practices suitable for SDET roles.
+# \*\*AutomationTestStore\*\* is a \*\*hands-on Hybrid Test Automation Framework designed to simulate real-world automation scenarios\*\* developed to automate a web application that includes \*\*user login functionality, validations, and navigation flows\*\*. The framework is built using \*\*Selenium WebDriver with Java\*\* and follows industry-standard automation practices suitable for SDET roles.
 
 # 
 
@@ -43,6 +43,30 @@
 # \* \*\*CI/CD:\*\* Jenkins
 
 # 
+
+# \## Key Highlights
+
+# \* \*\* Designed a scalable hybrid automation framework from scratch
+
+# \* \*\* Automated end-to-end user journeys including login, search, cart and checkout
+
+# \* \*\* Integrated automation suite with Jenkins for CI execution
+
+# \* \*\* Implemented data-driven testing using Excel utilities
+
+#
+
+# \## Prerequisites
+
+# \* \*\* Java JDK 17 installed
+
+# \* \*\* Maven installed and configured
+
+# \* \*\* Chrome / Firefox / Edge browser
+
+# \* \*\* IDE (IntelliJ / Eclipse)
+
+#
 
 # \## Framework Features
 
