@@ -44,27 +44,27 @@ AutomationTestStore is a hands-on Hybrid Test Automation Framework designed to s
 
 # 
 
-## Key Highlights
-* Designed a scalable hybrid automation framework from scratch
-* Automated end-to-end user journeys including login, search, cart and checkout
-* Integrated automation suite with Jenkins for CI execution
-* Implemented data-driven testing using Excel utilities
+# \## Key Highlights
+
+# \* Designed a scalable hybrid automation framework from scratch
+
+# \* Automated end-to-end user journeys including login, search, cart and checkout
+
+# \* Integrated automation suite with Jenkins for CI execution
+
+# \* Implemented data-driven testing using Excel utilities
 
 #
 
-## Prerequisites
-* Java JDK 17 installed
-* Maven installed and configured
-* Chrome / Firefox / Edge browser
-* IDE (IntelliJ / Eclipse)
+# \## Prerequisites
 
-# \* \*\* Java JDK 17 installed
+# \* Java JDK 17 installed
 
-# \* \*\* Maven installed and configured
+# \* Maven installed and configured
 
-# \* \*\* Chrome / Firefox / Edge browser
+# \* Chrome / Firefox / Edge browser
 
-# \* \*\* IDE (IntelliJ / Eclipse)
+# \* IDE (IntelliJ / Eclipse)
 
 #
 
